@@ -1,1 +1,1 @@
-# serverSideRandering
+# serverSideRandering 설정
